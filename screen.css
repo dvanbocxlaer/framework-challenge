@@ -3,10 +3,6 @@ a.active {
     font-weight: bold;
 }
 
-.btn-primary {
-    background: #F77F00;
-}
-
 .modal {
     background: #F77F00;
 }
@@ -20,12 +16,7 @@ a.active {
     text-align: center;
 }
 
-.btn-close {
-    color:#F77F00;
-}
-
 .modal-body {
-    color: #003049;
     background: #EAE2B7;
 }
 
@@ -35,8 +26,4 @@ a.active {
 
 .img-fluid {
     padding: 15px;
-}
-
-.btn-secondary {
-    color: #FCBF49;
 }
