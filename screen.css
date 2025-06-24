@@ -4,9 +4,14 @@ a.active {
 }
 
 .modal {
-    background: #003049
+    background: #003049;
+}
+
+#OrderModalLabel {
+    background: #003049;
 }
 
 .modal-body {
-    background: #EAE2B7
+    color: #003049;
+    background: #EAE2B7;
 }
