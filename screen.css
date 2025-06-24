@@ -7,8 +7,12 @@ a.active {
     background: #003049;
 }
 
-#OrderModalLabel {
+.modal-title {
     background: #003049;
+}
+
+#OrderModalLabel {
+    color: #F77F00;
 }
 
 .modal-body {
